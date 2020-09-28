@@ -124,10 +124,10 @@ Free and open-source, distributed, wide column store, NoSQL database management 
   ```
 
 - We are exposing port 9091 by using `-p = expose the port`.
-  ![image-20200928061751701](/home/nakama/.config/Typora/typora-user-images/image-20200928061751701.png)
+  ![image](https://user-images.githubusercontent.com/60163707/94379310-9648c280-0159-11eb-8090-0573a4ddd688.png)
 
 - So we can play around with "`Working with CQL v6.0.0`" then setup the connection to be like this:
-  ![image-20200928062116961](/home/nakama/.config/Typora/typora-user-images/image-20200928062116961.png)
+  ![image](https://user-images.githubusercontent.com/60163707/94379332-c55f3400-0159-11eb-867a-05593bfb40a8.png)
   Change the `host/IP` to our host (that setup previously) which is `my-dse`.
 
 ### Cheat sheets
