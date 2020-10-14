@@ -322,10 +322,10 @@ The Spark Python API, PySpark, exposes the Spark programming model to Python. Py
     ```
 
   Uploading script resources on Google Cloud environment:
-  ![image-20201014100157625](/home/nakama/.config/Typora/typora-user-images/image-20201014100157625.png) 
+  ![image](https://raw.githubusercontent.com/nurtantioquidar/personal-exploration/master/images/image-20201014100157625.png) 
 
   Submit job via UI console:
-  ![image-20201014100606396](/home/nakama/.config/Typora/typora-user-images/image-20201014100606396.png)
+  ![image](https://raw.githubusercontent.com/nurtantioquidar/personal-exploration/master/images/image-20201014100606396.png)
 
   or submit via REST:
 
@@ -359,13 +359,13 @@ The Spark Python API, PySpark, exposes the Spark programming model to Python. Py
   3. produce the result in `parquet` format in `gs://dataengineer-staging-bucket/dataproc/result-summary`
 
   Then we can see the log:
-  ![image-20201014100748897](/home/nakama/.config/Typora/typora-user-images/image-20201014100748897.png)
+  ![image](https://raw.githubusercontent.com/nurtantioquidar/personal-exploration/master/images/image-20201014100748897.png)
 
   The result:
-  ![image-20201014100825768](/home/nakama/.config/Typora/typora-user-images/image-20201014100825768.png)
+  ![image](https://raw.githubusercontent.com/nurtantioquidar/personal-exploration/master/images/image-20201014100825768.png)
 
   Then we can view the content of the result file using Bigquery:
-  ![image-20201014101152500](/home/nakama/.config/Typora/typora-user-images/image-20201014101152500.png)
+  ![image](https://raw.githubusercontent.com/nurtantioquidar/personal-exploration/master/images/image-20201014101152500.png)
 
 
 
