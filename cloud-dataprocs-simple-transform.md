@@ -127,7 +127,7 @@ The Spark Python API, PySpark, exposes the Spark programming model to Python. Py
   ```
 
   That execution will produce this in console:
-  ![image-20201014093329985](/home/nakama/.config/Typora/typora-user-images/image-20201014093329985.png)
+  ![image](https://raw.githubusercontent.com/nurtantioquidar/personal-exploration/master/images/image-20201014093329985.png)
   and also pay attention to `data` folder so we can see result of the execution script:
 
   ```shell
