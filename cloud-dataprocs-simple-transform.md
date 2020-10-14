@@ -324,7 +324,7 @@ The Spark Python API, PySpark, exposes the Spark programming model to Python. Py
   Uploading script resources on Google Cloud environment:
   ![image](https://raw.githubusercontent.com/nurtantioquidar/personal-exploration/master/images/image-20201014100157625.png) 
 
-  Submit job via UI console:
+  Submit job via UI console: <br />
   ![image](https://raw.githubusercontent.com/nurtantioquidar/personal-exploration/master/images/image-20201014100606396.png)
 
   or submit via REST:
